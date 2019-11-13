@@ -33,3 +33,21 @@ comment: well known author of high quality rust crates
 6ueUmXZT0_pIyUwLUm7azwsAsf1xOV_qsqf5jxWPkcQZFHKMzUPIcPkYpy3DOUw5-5y-WpYpNnlyOyQkBSHKDQ
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2019-11-13T17:34:56.628128227+01:00"
+from:
+  id-type: crev
+  id: GH_y9BmI567xqh3_5vSStNAAZ79mcxazK52avCzttps
+  url: "https://github.com/bitwave/crev-proofs"
+ids:
+  - id-type: crev
+    id: ZGgmIacywCRKLa33k7W04VFcK-glDkcBXKG4oF7t--4
+    url: "https://github.com/kpcyrd/crev-proofs"
+trust: medium
+comment: known author of sn0int and other useful tools
+----- SIGN CREV PROOF -----
+3yxEULqnlwCkvrLmU2RLM0oEWpPzEiDGfBtjsywh2nXsfwLcbXQJjdcykfTBNkO-l-dTF4qqabMadi0hXiTeBQ
+----- END CREV PROOF -----
+
