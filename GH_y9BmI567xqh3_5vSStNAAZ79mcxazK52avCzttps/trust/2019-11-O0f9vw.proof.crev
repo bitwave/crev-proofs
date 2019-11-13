@@ -15,3 +15,21 @@ trust: medium
 L-j3B9bgoIyVU_XLLN2lNhqUaGUDesAzJXLBflsWoPd3sVSdSoXQChCBp6JOiTSBk8rocJJSY0sR2j7jukxPAg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2019-11-13T17:33:26.950613571+01:00"
+from:
+  id-type: crev
+  id: GH_y9BmI567xqh3_5vSStNAAZ79mcxazK52avCzttps
+  url: "https://github.com/bitwave/crev-proofs"
+ids:
+  - id-type: crev
+    id: VylyTuk8CMGqIxgHixWaqfiUn3xZyzOA1wFrQ0sR1As
+    url: "https://github.com/BurntSushi/crev-proofs"
+trust: high
+comment: well known author of high quality rust crates
+----- SIGN CREV PROOF -----
+6ueUmXZT0_pIyUwLUm7azwsAsf1xOV_qsqf5jxWPkcQZFHKMzUPIcPkYpy3DOUw5-5y-WpYpNnlyOyQkBSHKDQ
+----- END CREV PROOF -----
+
