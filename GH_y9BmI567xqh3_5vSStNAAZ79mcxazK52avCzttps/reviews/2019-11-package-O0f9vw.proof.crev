@@ -1,0 +1,23 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2019-11-13T17:23:04.015918723+01:00"
+from:
+  id-type: crev
+  id: GH_y9BmI567xqh3_5vSStNAAZ79mcxazK52avCzttps
+  url: "https://github.com/bitwave/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: pin-utils
+  version: 0.1.0-alpha.4
+  revision: 9507af15b4fd0c3a78f067664be662844e409efe
+  digest: KVSmRO6amB1sg8n5H5dQohRlVQsPao0bl8zSw3MVRhA
+review:
+  thoroughness: medium
+  understanding: medium
+  rating: positive
+comment: simple macros to work with the Pin and Unpin types
+----- SIGN CREV PROOF -----
+XGsrK8A5Uk2Mb_KoiSMlmBfog9WsdsQriROAldkx3QnMi1zUCkBAdzGrj0f1NcR3s5qrU7B4bNzjjeAUasuFAQ
+----- END CREV PROOF -----
+
